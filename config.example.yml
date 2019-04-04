@@ -1,0 +1,9 @@
+local-storage: /some/directory
+transformers:
+  - hclfmt
+git:
+  author: "Jane Doe"
+  email: "jane@doe.org"
+github:
+  organization: google
+  access-token: supersecret
